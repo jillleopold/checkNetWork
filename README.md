@@ -1,7 +1,7 @@
 # 检测网络是否连接
 
 需要引用两个头文件
-#import <SystemConfiguration/SCNetworkReachability.h>
+#import <SystemConfiguration/SCNetworkReachability.h><br>
 #import <netinet/in.h>
 
 
